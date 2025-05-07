@@ -56,6 +56,7 @@
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wendeldevx7&theme=tokyonight"
   />
+  |:-:|:-:|:-:|
   <br>
   <br>
   <img
