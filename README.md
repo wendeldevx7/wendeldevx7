@@ -15,8 +15,6 @@
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fwendeldevx7&s=21&c=800080&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p>
 </div>
 
-<br><br>
-
 <div align="center">
   <img src="https://i.imgur.com/o3tg4M7.gif width="100">
 </div>
