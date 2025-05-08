@@ -82,32 +82,6 @@
 
   <br>
 
-  ##
-
-  <div align="center">
-    <samp>
-      <b>Contact me:</b>
-    </samp>
-    <br><br>
-    [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:[SeuEmail])
-    [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/[SeuInstagram]/)
-    [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/[SeuDiscord])
-    [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/[SeuNumero])
-    [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/[SeuLinkedIn]/)
-  </div>
-
-  <div align="center">
-    <p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/[SeuLink]">rentry</a> ⊹
-        <a href="https://linktr.ee/[SeuLink]">linktr.ee</a> ⊹
-        <a href="https://[SeuCarrd].carrd.co/">carrd.co</a> ⊹
-        <a href="https://[SeuNotion].notion.site/[SeuLink]">notion</a> ♡
-      </samp>
-    </p>
-  </div>
-
-  ##
 
 </details>
 
