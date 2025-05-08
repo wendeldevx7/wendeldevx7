@@ -18,7 +18,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://i.imgur.com/o3tg4M7.gif width="150">
+  <img src="https://i.imgur.com/o3tg4M7.gif width="100">
 </div>
 
 <div align="center" width="100%">
@@ -62,7 +62,5 @@
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </div>
-
   <br>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=100&section=footer"/>
