@@ -1,23 +1,31 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=800080&text=Gengar&fontColor=FFFFFF&fontSize=30&animation=fadeIn&section=header"/>
 
 <div align="center">
   <samp>
     <b>
-      システムアナリスト
+      Gengar Fan & Pokémon Enthusiast
     </b>
       <br>
-      Hi there! I'm Wendel Meneses
+      Hi there! I'm Wendel Meneses 👻
       <br>
   </samp>
 </div>
 <div align="center">
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillyvm&theme=jolly) |
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=jolly&offset=8) |
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamillyvm&theme=jolly) |
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=jolly) |
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=jolly&hide_border=true) |
-  ![GitHub](https://git.io/streak-stats) |
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fwendeldevx7&s=21&c=800080&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/wendel_♡-black" />
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=800080&width=900&size=21&center=true&lines=I'm+Wendel+Meneses;A+passionate+developer;Gengar+is+my+favorite+Pokémon;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -51,7 +59,6 @@
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wendeldevx7&theme=tokyonight"
   />
-  |:-:|:-:|:-:|
   <br>
   <br>
   <img
@@ -73,7 +80,6 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-  
 </div>
 
 <br>
@@ -89,11 +95,11 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5584988964920)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:[SeuEmail])
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/[SeuInstagram]/)
+  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/[SeuDiscord])
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/[SeuNumero])
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/[SeuLinkedIn]/)
   
 </div>
 
@@ -101,10 +107,10 @@
 
 <p align="center">
       <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+        ♡ <a href="https://rentry.co/[SeuLink]">rentry</a> ⊹
+        <a href="https://linktr.ee/[SeuLink]">linktr.ee</a> ⊹
+        <a href="https://[SeuCarrd].carrd.co/">carrd.co</a> ⊹
+        <a href="https://[SeuNotion].notion.site/[SeuLink]">notion</a> ♡
       </samp>
   </p>
 
@@ -117,4 +123,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=100&section=footer"/>
