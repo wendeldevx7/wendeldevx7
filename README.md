@@ -3,10 +3,10 @@
 <div align="center">
   <samp>
     <b>
-      Gengar Fan & Pokémon Enthusiast
+      システムアナリスト
     </b>
       <br>
-      Hi there! I'm Wendel Meneses 👻
+      Hi there! I'm Wendel Meneses
       <br>
   </samp>
 </div>
