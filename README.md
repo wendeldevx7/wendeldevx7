@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=800080&text=Gengar&fontColor=FFFFFF&fontSize=30&animation=fadeIn&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=800080&fontColor=FFFFFF&fontSize=30&animation=fadeIn&section=header"/>
 
 <div align="center">
   <samp>
@@ -19,9 +19,6 @@
       
 <div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/wendel_♡-black" />
 </div>
 
 <div align="center" width="100%">
