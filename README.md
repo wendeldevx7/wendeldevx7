@@ -36,7 +36,6 @@
   
   <br>
 
-  <!-- First line: Stats, Top Languages, Commits -->
   <div align="center">
     <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=wendeldevx7&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=Iosevka" />
     <img height="165" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendeldevx7&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight" />
@@ -45,14 +44,12 @@
   
   <br>
 
-  <!-- Second line: Profile details -->
   <div align="center">
     <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wendeldevx7&theme=tokyonight" />
   </div>
 
   <br>
 
-  <!-- Skill Icons -->
   <div align="center" style="display: inline_block"><br>
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
